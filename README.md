@@ -78,7 +78,7 @@ Stripe account for payment integration
 
 Clone the Repository:
 
-git clone https://github.com/servrmonk/E-Commerce-Project.git
+git clone https://github.com/achaltaki/E-commerce--Final--Project
 cd aipoweredecomm
 
 Frontend Setup:
